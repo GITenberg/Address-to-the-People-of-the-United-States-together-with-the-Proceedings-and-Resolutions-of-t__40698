@@ -1,0 +1,30 @@
+_repo: Address-to-the-People-of-the-United-States-together-with-the-Proceedings-and-Resolutions-of-t__40698
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a216
+description: ''
+gutenberg_issued: '2012-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Kansas -- History -- 1854-1861'
+- !lcsh 'United States. Kansas-Nebraska Act'
+- !lcsh 'Missouri compromise'
+- !lcsh 'Slavery -- Missouri'
+- !lcsh 'Slavery -- United States -- Controversial literature'
+title: Address to the People of the United States, together with the Proceedings and
+  Resolutions of the Pro-Slavery Convention of Missouri, Held at Lexington, July 1855
+url: http://www.gutenberg.org/ebooks/40698
