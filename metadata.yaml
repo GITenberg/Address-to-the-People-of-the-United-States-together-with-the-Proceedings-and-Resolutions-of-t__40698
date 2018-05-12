@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40698#Address-to-the-People-of-the-United-States-together-with-the-Proceedings-and-Resolutions-of-t_
 gutenberg_issued: '2012-09-07'
 gutenberg_type: Text
 identifiers:
